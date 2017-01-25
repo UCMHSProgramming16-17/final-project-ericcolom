@@ -16,7 +16,7 @@ number=0
 city = []
 temp = []
 
-while number<3:
+while number<10:
     #put together url
     address=input("address:")
     if address=='quit':
